@@ -1,0 +1,8 @@
+.shopping-bag-item {
+  color: salmon;
+  font-family: Calibri;
+}
+
+.shopping-bag-item-remove {
+  cursor: pointer;
+}

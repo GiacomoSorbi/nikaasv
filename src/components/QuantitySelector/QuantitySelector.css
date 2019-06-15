@@ -1,0 +1,22 @@
+.quantity-selector {
+  margin-top: 50px;
+  font-size: 18px;
+}
+#quantity-items {
+  text-align: right;
+  font-family: copperplate;
+}
+.number {
+  margin-left: 5px;
+  width: 10%;
+  font-size: 15px;
+  text-align: center;
+  padding: 8px 8px;
+  color: #4e240f;
+  transition: all 0.5s;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  outline: none;
+  border-width: 0;
+}

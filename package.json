@@ -1,13 +1,27 @@
 {
+  "homepage": "https://GiacomoSorbi.github.io/nikaasv",
   "name": "dissertation",
   "version": "0.1.0",
   "private": true,
+  "installConfig": {
+    "pnp": true
+  },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-brands-svg-icons": "^5.10.2",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-redux": "^7.1.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -27,5 +41,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^6.1.0",
+    "gh-pages": "^2.0.1",
+    "standard": "^13.1.0"
+  },
+  "standard": {
+    "parser": "babel-eslint"
   }
 }

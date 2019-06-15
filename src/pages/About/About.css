@@ -1,0 +1,76 @@
+.hero-about-us {
+    width: 100vw;
+    height: 60vh;
+    background-image: url("../../assets/images/about-us.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-position-y: center;
+    background-position-x: center;
+  }
+  .border-box-about {
+    padding: 5px;
+    border: 1px solid #8f4219a9;
+  }
+  .title-box-about {
+    width: 70vmin;
+    height: 10vmin;
+    border: 5px solid #8f4219a9;
+    background-color: rgba(255, 255, 255, 0.75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+    min-width: 500px;
+  }
+  .about-us {
+    width: 70%;
+    height: 20%;
+    margin-bottom: 40px;
+    margin: 20px auto;
+    border: 1px solid rgba(87, 87, 87, 0.404);
+    padding: 3%;
+  }
+
+  .heading {
+    font-family: baskerville;
+    font-size: 20px;
+    color: #8f4319;
+    margin-top: 2px;
+    font-weight: bold;
+  }
+
+
+  .title-box-about {
+    width: 70vmin;
+    height: 10vmin;
+    border: 5px solid #8f4219a9;
+    background-color: rgba(255, 255, 255, 0.75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+    min-width: 500px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .border-box-about {
+      border: 1px solid #8f4219a9;
+      padding: 0;
+    }
+    .title-box-about {
+      width: 90vmin;
+      
+      border: 5px solid #8f4219a9;
+      background-color: rgba(255, 255, 255, 0.75);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 200px;
+      min-width: 100px;
+    }
+  }
