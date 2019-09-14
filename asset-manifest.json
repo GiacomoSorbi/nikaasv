@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nikaasv/static/css/main.fae0880a.chunk.css",
+    "main.js": "/nikaasv/static/js/main.c397a299.chunk.js",
+    "main.js.map": "/nikaasv/static/js/main.c397a299.chunk.js.map",
+    "runtime~main.js": "/nikaasv/static/js/runtime~main.2217af68.js",
+    "runtime~main.js.map": "/nikaasv/static/js/runtime~main.2217af68.js.map",
+    "static/js/2.715a97d7.chunk.js": "/nikaasv/static/js/2.715a97d7.chunk.js",
+    "static/js/2.715a97d7.chunk.js.map": "/nikaasv/static/js/2.715a97d7.chunk.js.map",
+    "index.html": "/nikaasv/index.html",
+    "precache-manifest.b99ad2e8c85fc9914b3b10232e67a679.js": "/nikaasv/precache-manifest.b99ad2e8c85fc9914b3b10232e67a679.js",
+    "service-worker.js": "/nikaasv/service-worker.js",
+    "static/css/main.fae0880a.chunk.css.map": "/nikaasv/static/css/main.fae0880a.chunk.css.map",
+    "static/media/App.css": "/nikaasv/static/media/Sacramento-Regular.f16616a9.ttf",
+    "static/media/Navigation.css": "/nikaasv/static/media/Copperplate.fd41d56c.ttc",
+    "static/media/About.css": "/nikaasv/static/media/about-us.77a89b3f.jpg",
+    "static/media/circle.jpg": "/nikaasv/static/media/circle.0b74ecb6.jpg",
+    "static/media/Home.css": "/nikaasv/static/media/neck.966636dd.jpg",
+    "static/media/goldenChain.jpg": "/nikaasv/static/media/goldenChain.cff782e5.jpg",
+    "static/media/goldenRing.jpg": "/nikaasv/static/media/goldenRing.74e1987d.jpg",
+    "static/media/oval.jpg": "/nikaasv/static/media/oval.b8308190.jpg",
+    "static/media/silverChain.jpg": "/nikaasv/static/media/silverChain.add1d1b1.jpg",
+    "static/media/silverRing.jpg": "/nikaasv/static/media/silverRing.cc47e47f.jpg",
+    "static/media/soloGold.jpg": "/nikaasv/static/media/soloGold.4ab46037.jpg",
+    "static/media/stone.jpg": "/nikaasv/static/media/stone.4dca3fab.jpg",
+    "static/media/twoGolden.jpg": "/nikaasv/static/media/twoGolden.83c59de2.jpg"
+  }
+}
