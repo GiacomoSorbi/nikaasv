@@ -14,7 +14,7 @@ import configureStore from './store'
 
 ReactDOM.render(
   <Provider store={configureStore()}>
-    <Router>
+    <Router basename="/nikaasv">
       <App>
         <Switch>
           <Route path='/' exact component={Home} />
