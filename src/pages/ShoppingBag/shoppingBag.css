@@ -1,7 +1,16 @@
-.few-items, .no-items {
+.items-container, .no-items {
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.some-items {
+    width: 50vw;
+    height: 50vh;
+    border: 5px solid #8f4219;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
 }

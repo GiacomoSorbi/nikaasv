@@ -1,8 +1,18 @@
 .shopping-bag-item {
   color: salmon;
-  font-family: Calibri;
+  font-family: baskerville;
+  font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .shopping-bag-item-remove {
   cursor: pointer;
+}
+
+.border-box-about {
+  padding: 5px;
+  border: 1px solid #8f4219a9;
+}
+.title-box-about {
+
 }

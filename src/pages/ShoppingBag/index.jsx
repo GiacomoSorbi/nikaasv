@@ -9,7 +9,8 @@ export const ShoppingBag = ({ orders, removeItemFromBag }) => {
   return (
     <>
       {orders.length ? (
-        <div className="few-items">
+        <div className="items-container">
+          <div className="some-items">
           {orders.map((item, index) => (
             <ShoppingBagItem
               key={item.id}
@@ -18,6 +19,7 @@ export const ShoppingBag = ({ orders, removeItemFromBag }) => {
               index={index}
             />
           ))}
+        </div>
         </div>
       ) : (
         <div className="no-items">No items in the bag yet</div>
