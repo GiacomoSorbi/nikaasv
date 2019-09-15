@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8f6a4013501e473eb04680b2f9da283",
+    "revision": "3c8f8d5e85cf9ddea167b36d96774385",
     "url": "/nikaasv/index.html"
   },
   {
-    "revision": "0a047188cd75cbc085e1",
-    "url": "/nikaasv/static/css/main.fd09476a.chunk.css"
+    "revision": "645444a58e2c73d13096",
+    "url": "/nikaasv/static/css/main.b385af17.chunk.css"
   },
   {
     "revision": "a613fb95ede60782c3d2",
     "url": "/nikaasv/static/js/2.715a97d7.chunk.js"
   },
   {
-    "revision": "0a047188cd75cbc085e1",
-    "url": "/nikaasv/static/js/main.85526cea.chunk.js"
+    "revision": "645444a58e2c73d13096",
+    "url": "/nikaasv/static/js/main.d7ddf09d.chunk.js"
   },
   {
     "revision": "35ef947bb6b68ae0c0ec",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nikaasv/static/media/circle.0b74ecb6.jpg"
   },
   {
-    "revision": "bd5b625b05d2035dcd724a8609099bcb",
-    "url": "/nikaasv/static/media/ear.bd5b625b.jpg"
+    "revision": "29fae52d911c6ed4078ccbb5fb5c1e1e",
+    "url": "/nikaasv/static/media/ear.29fae52d.jpg"
   },
   {
     "revision": "e029ad0a22c170668b833aa74c53986c",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nikaasv/static/media/goldenRing.74e1987d.jpg"
   },
   {
-    "revision": "966636dde08e375e14d82a47a579be69",
-    "url": "/nikaasv/static/media/neck.966636dd.jpg"
+    "revision": "1d02d5a5cdf4fa6ab32e91894f9991fa",
+    "url": "/nikaasv/static/media/neck.1d02d5a5.jpg"
   },
   {
     "revision": "b8308190f9f287f4f707e06a82a12c21",
