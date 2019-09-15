@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c8f8d5e85cf9ddea167b36d96774385",
+    "revision": "a2b3415664cb21df4a61fe4458dc1ee3",
     "url": "/nikaasv/index.html"
   },
   {
-    "revision": "645444a58e2c73d13096",
+    "revision": "36491bf27e4f1ff34783",
     "url": "/nikaasv/static/css/main.b385af17.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nikaasv/static/js/2.715a97d7.chunk.js"
   },
   {
-    "revision": "645444a58e2c73d13096",
-    "url": "/nikaasv/static/js/main.d7ddf09d.chunk.js"
+    "revision": "36491bf27e4f1ff34783",
+    "url": "/nikaasv/static/js/main.792673d0.chunk.js"
   },
   {
     "revision": "35ef947bb6b68ae0c0ec",
