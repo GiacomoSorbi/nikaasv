@@ -56,7 +56,7 @@
   font-size: 4vmin;
 }
 .nav-icon-badge {
-  background: salmon;
+  background: rgba(143,66,25,.55);
   font-size: 3vmin;
   border-radius: 2vmin;
   width: 3vmin;
