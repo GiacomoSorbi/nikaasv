@@ -12,7 +12,7 @@ const Home = props => (
     <section className="hero-img">
       <div className="border-box">
         <div className="title-box">
-          <h2 className="title"> Minimal Shine </h2>
+          <h2 className="title"> Minimalist Shine </h2>
           <p className="heading"> Simplicity is the ultimate sophistication</p>
           <button className="title-button">discover now</button>
         </div>
@@ -48,8 +48,3 @@ const Home = props => (
 );
 
 export default Home;
-
-
-
-
-

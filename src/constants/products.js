@@ -13,7 +13,7 @@ const products = [
     id: "golden-chain",
     name: "Golden Chain Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Clear style: The reduction to minimalist-graphic line shapes allows the linear ring to sparkle particularly powerfully.",
     price: "£30",
     thumb: goldenChain,
     img: goldenChain,
@@ -23,13 +23,13 @@ const products = [
       "Including free jewellery packaging."
     ],
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "The graphic design of the filigree Dots ring gives any outfit a minimalist, avant-garde radiance and is an absolute example of the modern return to simplicity in shape and cut."
   },
   {
     id: "silver-chain",
     name: "Silver Chain Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "This contemporary ring supports the ability to concentrate with its geometric, nine-cornered shape. Elegant cord patterns decorate the design in the finest detailing. A timeless companion, whether worn on its own, or in combination with other rings. This ring band is also perfect as a couples’ ring.",
     price: "£45",
     thumb: silverChain,
     img: silverChain,
@@ -39,13 +39,13 @@ const products = [
       "Including free jewellery packaging."
     ],
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "Material: 925 Sterling silver Stoneswhite diamond pavé Colour: silver-coloured, white Height: approx. 0.50 cm (0.20 Inch) Width: approx. 0.50 cm (0.20 Inch) Thickness: approx. 0.20 cm (0.08 Inch)"
   },
   {
     id: "solo-gold",
     name: "Solo Gold Ring",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "The graphic design of the filigree Dots ring gives any outfit a minimalist, avant-garde radiance and is an absolute example of the modern return to simplicity in shape and cut.",
     price: "£30",
     thumb: soloGold,
     img: soloGold,
@@ -55,14 +55,14 @@ const products = [
       "Including free jewellery packaging."
     ],
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "Material: 925 Sterling silver; 18k yellow gold plating Colour: yellow gold-coloured Clasp: Push back; Heightapprox. 10.15 cm (4.00 Inch) Width: approx. 2.50 cm (0.98 Inch)"
   },
   {
     id: "two-golden",
     name: "Two Golden Rings",
     thumb: twoGolden,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Clear style: The reduction to minimalist-graphic line shapes allows the linear ring to sparkle particularly powerfully.",
     price: "£45",
       shippingDescription: [
       "Free standard shipping.",
@@ -71,14 +71,14 @@ const products = [
     ],
     img: twoGolden,
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    "Material: 925 Sterling silver; 18k yellow gold plating Colour: yellow gold-coloured Clasp: Push back; Heightapprox. 10.15 cm (4.00 Inch) Width: approx. 2.50 cm (0.98 Inch)"
   },
   {
     id: "chain-ring",
     name: "Chain Ring",
     thumb: chainRing,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Clear style: The reduction to minimalist-graphic line shapes allows the linear ring to sparkle particularly powerfully.",
       price: "£25",
       shippingDescription: [
       "Free standard shipping.",
@@ -87,7 +87,7 @@ const products = [
     ],
     img: chainRing,
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    "Material: 925 Sterling silver; 18k yellow gold plating Colour: yellow gold-coloured Clasp: Push back; Heightapprox. 10.15 cm (4.00 Inch) Width: approx. 2.50 cm (0.98 Inch)"
   },
   {
     id: "silver-leave",
@@ -95,7 +95,7 @@ const products = [
     thumb: silverRing,
     price: "£30",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "The graphic design of the filigree Dots ring gives any outfit a minimalist, avant-garde radiance and is an absolute example of the modern return to simplicity in shape and cut.",
     shippingDescription: [
       "Free standard shipping.",
       "Delivery in 2 to 4 working days.",
@@ -103,7 +103,7 @@ const products = [
     ],
     img: silverRing,
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "Material: 925 Sterling silver Stoneswhite diamond pavé Colour: silver-coloured, white Height: approx. 0.50 cm (0.20 Inch) Width: approx. 0.50 cm (0.20 Inch) Thickness: approx. 0.20 cm (0.08 Inch)"
   },
   {
     id: "stone-earring",
@@ -111,7 +111,7 @@ const products = [
     thumb: stone,
     price: "£45",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Bohemian style: The graphic pendant with mother-of-pearl that can be worn as a single earring epitomises elegant-subtle street style.",
     shippingDescription: [
       "Free standard shipping.",
       "Delivery in 2 to 4 working days.",
@@ -119,14 +119,15 @@ const products = [
     ],
     img: stone,
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    "Material: 925 Sterling silver; 18k yellow gold plating Colour: yellow gold-coloured Clasp: Push back; Heightapprox. 10.15 cm (4.00 Inch) Width: approx. 2.50 cm (0.98 Inch)"
+      
   },
   {
     id: "oval-earring",
     name: "Oval Earrings",
     thumb: oval,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Smart cool meets strength: the statement earrings made of 18k yellow-gold plating incorporate round, fine medallions and cut-outs, and combine classic street style with simple elegance.",
     price: "£35",
     img: oval,
     shippingDescription: [
@@ -135,7 +136,7 @@ const products = [
       "Including free jewellery packaging."
     ],
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+    "Material: 925 Sterling silver; 18k yellow gold plating Colour: yellow gold-coloured Clasp: Push back; Heightapprox. 10.15 cm (4.00 Inch) Width: approx. 2.50 cm (0.98 Inch)"
   },
   {
     id: "circle-earring",
@@ -143,7 +144,7 @@ const products = [
     thumb: circle,
     price: "£40",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Clean modern chic: The extra-long earrings of shiny polished silver and with an organic look reinterpret the iconic design of the 90s and become a piece of jewellery with a strong statement thanks to the clarity of material and form.",
     img: circle,
     shippingDescription: [
       "Free standard shipping.",
@@ -151,7 +152,7 @@ const products = [
       "Including free jewellery packaging."
     ],
     details:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+      "Material: 925 Sterling silver Stoneswhite diamond pavé Colour: silver-coloured, white Height: approx. 0.50 cm (0.20 Inch) Width: approx. 0.50 cm (0.20 Inch) Thickness: approx. 0.20 cm (0.08 Inch)"
   }
 ];
 

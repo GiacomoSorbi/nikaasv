@@ -8,18 +8,19 @@ export const ShoppingBag = ({ orders, removeItemFromBag }) => {
   const onRemove = e => removeItemFromBag(e.currentTarget.dataset.index);
   return (
     <>
+      <h1> You Added:</h1>
       {orders.length ? (
         <div className="items-container">
           <div className="some-items">
-          {orders.map((item, index) => (
-            <ShoppingBagItem
-              key={item.id}
-              item={item}
-              onRemove={onRemove}
-              index={index}
-            />
-          ))}
-        </div>
+            {orders.map((item, index) => (
+              <ShoppingBagItem
+                key={item.id}
+                item={item}
+                onRemove={onRemove}
+                index={index}
+              />
+            ))}
+          </div>
         </div>
       ) : (
         <div className="no-items">No items in the bag yet</div>

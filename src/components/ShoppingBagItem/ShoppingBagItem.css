@@ -1,5 +1,5 @@
 .shopping-bag-item {
-  color: salmon;
+  color: black;
   font-family: baskerville;
   font-size: 20px;
   margin-bottom: 10px;
@@ -7,6 +7,8 @@
 
 .shopping-bag-item-remove {
   cursor: pointer;
+  color: #8f4219a9;
+  margin: 5px;
 }
 
 .border-box-about {
